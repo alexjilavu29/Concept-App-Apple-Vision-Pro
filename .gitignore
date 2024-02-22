@@ -1,0 +1,35 @@
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+DerivedData/
+*.xcworkspace
+!default.xcworkspace
+*.xcuserstate
+project.xcworkspace/
+.idea/
+*.moved-aside
+*.xccheckout
+*.xctool-args
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
